@@ -12,8 +12,8 @@
     Let's get connected on <strong> Social Plateforms :</strong> 
     <a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/></a>
 </h2>
+
 <p>
-<hr>
 <br>
     <a href="https://github.com/iManojKumar">
         <img src="./assets/icons/other/github-solid.svg/" width="20px" />
@@ -36,22 +36,19 @@
     </a>
 <br>
 <br>
-<br>
-<br>
--->
+</p>
+
+<div align="center">
+<p>
 <h3>ℹ️ Github Stats</h3>
     <a href="https://github.com/iManojKumar">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=imanojkumar&theme=tokyonight" />
     </a>
-<!-- <br>
-    <br>
+<br> <br>
 </p>
-<!-- DISABLE DETAILS
-<details>
-    <summary>
-        MORE STATS...
-    </summary> -->
-<!-- <div align="center"> -->
+</div>
+
+<div align="center">
     <br>
     <a href="https://github.com/iManojKumar">
         <img src="https://github-readme-stats.vercel.app/api?username=imanojkumar&show_icons=true&theme=tokyonight" />
@@ -64,9 +61,8 @@
     <a href="#">
         <img src="https://activity-graph.herokuapp.com/graph?username=imanojkumar&bg_color=0a0047&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true"/>
     </a>
-<!-- </div> 
-</p> -->
-<!-- </details> -->
+</div> 
+</p>
 
 <h2>
     Let's get connected on <strong>Discord !</strong> 
