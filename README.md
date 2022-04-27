@@ -1,17 +1,13 @@
 ## Namaste! Hello! Olá! Bonjour! Hola! Guten tag! Salve! Nǐn hǎo! Konnichiwa! Anyoung haseyo! Zdravstvuyte! 👋
 
-### Welcome to my GitHub. 
+### ✨ Welcome to my GitHub. ✨
 
-- 👋 Hi, I’m Manoj Kumar { @ikumarmanoj }
+- 👋 Hi, I’m Manoj Kumar { @imanojkumar on GitHub}
 - 👀 I’m interested in Data Science, Business Analytics and Digital Transformation
 - 🌱 I’m currently learning Data Mesh and Data Product for Natural Resources Businesses
 - 💞️ I’m looking to collaborate on #BERT #NLP #MachineLearning #DeepLearning
 - 📫 How to reach me - Just Following me on Twitter { @iAnalyticsGeek }
 
-<!---
-ikumarmanoj/ikumarmanoj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <h2>
     Hello there! I am <strong>Manoj</strong> <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> --><a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/></a>
