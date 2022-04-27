@@ -8,26 +8,12 @@
 - 💞️ I’m looking to collaborate on #DigitalTransformation #AI #MachineLearning #DeepLearning #BERT #NLP
 - 📫 How to reach me - Just Following me on Twitter { @iAnalyticsGeek }
 
-
 <h2>
-    Let's get connected on <strong>Discord !</strong> 
+    Let's get connected on <strong> Social Plateforms :</strong> 
     <a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/></a>
 </h2>
-
-<a href="https://github.com/iManojKumar">
-  <img align="right" src="https://komarev.com/ghpvc/?username=imanojkumar&color=5865F2" />
-</a> 
-   I believe, <strong> <a href="https://discord.com">Discord</a></strong> is great to use to talk to our friends. 🚀
-<br><br>
-
-<div>
-    <a href="https://discord.com/channels/968531818414485564/968531819043647510">
-        <img src="https://discord.c99.nl/widget/theme-3/561170896480501790.png" alt="Manoj#9916:discord-profile"/>
-    </a>
-</div>
 <p>
 <hr>
-<!-- DISABLE THIS - Backup Social Media
 <br>
     <a href="https://github.com/iManojKumar">
         <img src="./assets/icons/other/github-solid.svg/" width="20px" />
@@ -81,4 +67,21 @@
 <!-- </div> 
 </p> -->
 <!-- </details> -->
+
+<h2>
+    Let's get connected on <strong>Discord !</strong> 
+    <a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/></a>
+</h2>
+
+<a href="https://github.com/iManojKumar">
+  <img align="right" src="https://komarev.com/ghpvc/?username=imanojkumar&color=5865F2" />
+</a> 
+   I believe, <strong> <a href="https://discord.com">Discord</a></strong> is great to use to talk to our friends. 🚀
+<br><br>
+
+<div>
+    <a href="https://discord.com/channels/968531818414485564/968531819043647510">
+        <img src="https://discord.c99.nl/widget/theme-3/561170896480501790.png" alt="Manoj#9916:discord-profile"/>
+    </a>
+</div>
 
