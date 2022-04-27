@@ -24,18 +24,18 @@
 
 <div>
     <a href="https://discord.com/channels/968531818414485564/968531819043647510">
-        <img src="https://discord.c99.nl/widget/theme-3/561170896480501790.png" alt="Manoj#3583:discord-profile"/>
+        <img src="https://discord.c99.nl/widget/theme-3/561170896480501790.png" alt="Manoj#9916:discord-profile"/>
     </a>
 </div>
 <p>
 <hr>
 <!-- DISABLE THIS - Backup Social Media
 <br>
-    <a href="https://github.com/iKumarManoj">
+    <a href="https://github.com/iManojKumar">
         <img src="./assets/icons/other/github-solid.svg/" width="20px" />
     </a>
     &nbsp;
-    <a href="https://instagram.com/manojtheds">
+    <a href="https://instagram.com/iAnalyticsGeek">
         <img src="./assets/icons/other/instagram-solid.svg/" width="20px" />
     </a>
     &nbsp;
@@ -43,11 +43,11 @@
         <img src="./assets/icons/other/discord-solid.svg/" width="20px" />
     </a>
     &nbsp;
-    <a href="https://youtube.com/">
+    <a href="https://www.youtube.com/c/iAnalyticsGeek">
         <img src="./assets/icons/other/youtube-solid.svg/" width="20px" />
     </a>
     &nbsp;
-    <a href="https://twitter.com/">
+    <a href="https://twitter.com/iAnalyticsGeek">
         <img src="./assets/icons/other/twitter-solid.svg/" width="20px" />
     </a>
 <br>
@@ -56,7 +56,7 @@
 <br>
 -->
 <h3>ℹ️ Github Stats</h3>
-    <a href="https://github.com/ikumarmanoj">
+    <a href="https://github.com/iManojKumar">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=imanojkumar&theme=tokyonight" />
     </a>
 <!-- <br>
@@ -69,11 +69,11 @@
     </summary> -->
 <!-- <div align="center"> -->
     <br>
-    <a href="https://github.com/ikumarmanoj">
+    <a href="https://github.com/iManojKumar">
         <img src="https://github-readme-stats.vercel.app/api?username=imanojkumar&show_icons=true&theme=tokyonight" />
     </a>
     <br>
-    <a href="https://github.com/DevinOfficial">
+    <a href="https://github.com/iManojKumar">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojkumar&layout=compact&theme=tokyonight" />
     </a>
     <br>
