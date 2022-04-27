@@ -1,8 +1,8 @@
 ## Namaste! Hello! Olá! Bonjour! Hola! Guten tag! Salve! Nǐn hǎo! Konnichiwa! Anyoung haseyo! Zdravstvuyte! 👋
 
-### ✨ Welcome to my GitHub. ✨
+## ✨ Welcome to My GitHub Page. ✨ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
-- 👋 Hi, I’m Manoj Kumar { @imanojkumar on GitHub}
+- 👋 I’m Manoj Kumar { @imanojkumar on GitHub}
 - 👀 I’m interested in Data Science, Business Analytics and Digital Transformation
 - 🌱 I’m currently learning Data Mesh and Data Product for Natural Resources Businesses
 - 💞️ I’m looking to collaborate on #DigitalTransformation #AI #MachineLearning #DeepLearning #BERT #NLP
@@ -10,16 +10,14 @@
 
 
 <h2>
-    Hello there! I am <strong>Manoj</strong> <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> --><a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/></a>
+    Let's get connected on <strong>Discord !</strong> 
+    <a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/></a>
 </h2>
 
-<a href="https://github.com/ikumarmanoj">
+<a href="https://github.com/iManojKumar">
   <img align="right" src="https://komarev.com/ghpvc/?username=imanojkumar&color=5865F2" />
 </a> 
-    Welcome to my github page!
-<br>
-    I am from India. My focus in on Data Science, Machine Learning, AI and Digital Transformation. 🚀
-    <!-- and btw, I enjoy <strong> <a href="https://discord.com">Discord</a></strong> -->
+   I believe, <strong> <a href="https://discord.com">Discord</a></strong> is great to use to talk to our friends. 🚀
 <br><br>
 
 <div>
