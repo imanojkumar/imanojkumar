@@ -38,9 +38,13 @@
 <br>
 </p>
 
+<h2>
+    ℹ️ <strong> Github Stats </strong> 
+    <a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/></a>
+</h2>
+
 <div align="center">
 <p>
-<h3>ℹ️ Github Stats</h3>
     <a href="https://github.com/iManojKumar">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=imanojkumar&theme=tokyonight" />
     </a>
