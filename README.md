@@ -1,8 +1,8 @@
-## Namaste! Hello! Olá! Bonjour! Hola! Guten tag! Salve! Nǐn hǎo! Konnichiwa! Anyoung haseyo! Zdravstvuyte! 👋
+## Namaste! Hello! Olá! Bonjour! Hola! Guten tag! Salve! Nǐn hǎo! Konnichiwa! Anyoung haseyo! Zdravstvuyte! 👋 <a href="#"><img src="https://komarev.com/ghpvc/?username=imanojkumar&label=Profile%20views&color=0e75b6&style=flat" alt="Manoj Kumar" align="right" /></a>
 
-## ✨ Welcome to My GitHub Page. ✨ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+## ✨ Welcome to My GitHub Page. ✨ <a href="#"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></a>
 
-- 👋 I’m Manoj Kumar { @imanojkumar on GitHub} - a passionate data scientist from India
+- 👋 I’m Manoj Kumar { @imanojkumar on GitHub} - A passionate natural resources domain specific data science prrofessional from India
 - 👀 I’m interested in Data Science, Business Analytics and Digital Transformation
 - 🌱 I’m currently learning Data Mesh and Data Product for Natural Resources Businesses
 - 💞️ I’m looking to collaborate on #DigitalTransformation #AI #MachineLearning #DeepLearning #BERT #NLP
@@ -12,9 +12,7 @@
 
 <h2>
     Let's get connected on <strong> Social Plateforms :</strong> 
-    <img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif" />
-    <img src="https://komarev.com/ghpvc/?username=imanojkumar&label=Profile%20views&color=0e75b6&style=flat" alt="Manoj Kumar" align="right" />
-    
+    <a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif" /></a>
 </h2>
 
 <p align="left">
@@ -29,9 +27,13 @@
 <a href="https://discord.gg/imanojkumar#9916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="imanojkumar#9916" height="30" width="40" /></a>
 </p>
 
-
+<br>
+<h2>
+    ℹ️ <strong> Github Stats </strong> 
+    <a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/></a>
+</h2>
 <p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <a href="#">
         <img src="https://github-profile-trophy.vercel.app/?username=imanojkumar" alt="Manoj Kumar" />
     </a> 
 </p>
