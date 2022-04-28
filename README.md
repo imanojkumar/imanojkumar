@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on #DigitalTransformation #AI #MachineLearning #DeepLearning #BERT #NLP
 - 📫 How to reach me - Just Following me on Twitter { @iAnalyticsGeek }
 
-## Languages and Tools: <a href="https://twitter.com/ianalyticsgeek" target="blank" align="right"> <img src="https://img.shields.io/twitter/follow/ianalyticsgeek?logo=twitter&style=for-the-badge" alt="Manoj Kumar" /></a>
+## Languages and Tools: <a href="https://twitter.com/ianalyticsgeek" target="blank"> <img src="https://img.shields.io/twitter/follow/ianalyticsgeek?logo=twitter&style=for-the-badge" alt="Manoj Kumar"  align="right" /></a>
 
 <p align="left"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> 
