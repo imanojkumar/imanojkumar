@@ -128,14 +128,14 @@
 
 <br>
 
-<div width="200px" margin="auto">
+<div style="width: 200px; height: 300px;" margin="auto">
     <img src="https://github-readme-stats.vercel.app/api?username=imanojkumar&layout=compact&show_icons=true&theme=flag-india" />
 </div>
 <br>
 
 <p>
     <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=imanojkumar&layout=compact&show_icons=true&theme=flag-india" />
+        <img src="https://github-readme-stats.vercel.app/api?username=imanojkumar&layout=compact&show_icons=true&theme=flag-india" style="width: 200px; height: 300px;"/>
         &nbsp;
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojkumar&layout=compact&theme=flag-india&hide=javascript,html,css&langs_count=4" />
     </a>
