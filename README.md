@@ -10,7 +10,7 @@
 
 
 <link rel="stylesheet" href="../css/social-circles.css">
-<script src="https://kit.fontawesome.com/f7187ce1e1.js" crossorigin="anonymous"></script>
+<link rel="javascript" href="https://kit.fontawesome.com/f7187ce1e1.js" />
 
 <h2>
     Let's get connected on <strong> Social Plateforms :</strong> 
