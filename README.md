@@ -110,7 +110,6 @@
 </p>
 <br>
 
-<br>
 <h2>
     ℹ️ &nbsp; <strong> Github Stats </strong> &nbsp;
     <a href="#">
@@ -127,7 +126,7 @@
 <br>
 
 <h2>
-    Let's get connected on <strong> Social Plateforms :</strong> 
+    Let's get connected on <strong> Social Plateforms :</strong> &nbsp; 🤝
     <a href="https://twitter.com/iAnalyticsGeek" target="_blank">
     <img alt="Twitter: iAnalyticsGeek" src="https://img.shields.io/twitter/follow/iAnalyticsGeek.svg?style=social" target="_blank" align="right"/>
   </a>
@@ -147,8 +146,20 @@
 
 <br>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/imanojumar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imanojumar" /></a></p><br><br>
+<h2>
+    <strong>Support</strong> &nbsp;&nbsp; 🙏
+    <a href="#">
+        <img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/>
+    </a>
+</h2>
+
+<p>
+    <a href="https://www.buymeacoffee.com/imanojumar">
+        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imanojumar" align="center"/>
+    </a>
+</p>
+
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanojkumar&show_icons=true&locale=en&layout=compact" alt="imanojkumar" /></p>
 
