@@ -180,7 +180,7 @@
     </a>
 </p>
 
-<br><br>
+<br><br><br>
 
 <h2>
     Let's get connected on <strong>Discord !</strong> 
@@ -198,3 +198,5 @@
         <img src="https://discord.c99.nl/widget/theme-3/561170896480501790.png" alt="Manoj#9916:discord-profile"/>
     </a>
 </div>
+                                                                                                                
+<br>
