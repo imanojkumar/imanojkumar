@@ -125,15 +125,12 @@
         <img src="https://github-profile-trophy.vercel.app/?username=imanojkumar&title=Repositories,Stars,Followers,Commit,PullRequest&margin-w=15&theme=monokai" alt="Manoj Kumar" />
     </a> 
 </p>
-
-<br>
-
 <p>
     <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=imanojkumar&layout=compact&show_icons=true&theme=flag-india" style="width: 350px; height: 350px;"/>
-    </a> &nbsp;
+        <img src="https://github-readme-stats.vercel.app/api?username=imanojkumar&layout=compact&show_icons=true&theme=flag-india" style="width:350px;"/>
+    </a> &nbsp;&nbsp;
     <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojkumar&layout=compact&theme=flag-india&hide=javascript,html,css&langs_count=4" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojkumar&layout=compact&theme=flag-india&hide=javascript,html,css&langs_count=4" style="width:300px;/>
     </a>
 </p>
 
