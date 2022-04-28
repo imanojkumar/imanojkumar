@@ -14,6 +14,14 @@
 </h2>
 
 <p>
+    <link rel="stylesheet" href="../css/social-circles.min.css">
+    <a class="icon-twitter social-button color" href="https://twitter.com/iAnalyticsGeek"></a>
+    <a class="icon-youtube social-button color" href="https://youtube.com/iAnalyticsGeek"></a>
+    <a class="icon-instagram social-button color" href="https://instagram.com/iAnalyticsGeek"></a>
+    <a class="icon-facebook social-button grey" href="https://facebook.com/iAnalyticsGeek"></a>
+</p>
+<br>
+<p>
 <br>
     <a href="https://github.com/iManojKumar">
         <img src="./assets/icons/other/github-solid.svg/" width="20px" />
