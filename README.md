@@ -8,7 +8,11 @@
 - 💞️ I’m looking to collaborate on #DigitalTransformation #AI #MachineLearning #DeepLearning #BERT #NLP
 - 📫 How to reach me - Just Following me on Twitter { @iAnalyticsGeek }
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools:
+    <a href="https://twitter.com/ianalyticsgeek" target="blank" align="right">
+        <img src="https://img.shields.io/twitter/follow/ianalyticsgeek?logo=twitter&style=for-the-badge" alt="Manoj Kumar" />
+    </a>
+</h2>
 <p align="left"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> 
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
@@ -136,17 +140,9 @@
 
 <p align="left"> 
     <a href="#">
-        <img src="https://github-profile-trophy.vercel.app/?username=imanojkumar&title=Repositories,Stars,Followers,Commit&margin-w=15" alt="Manoj Kumar" />
+        <img src="https://github-profile-trophy.vercel.app/?username=imanojkumar&title=Repositories,Stars,Followers,Commit,PullRequest&margin-w=15&theme=monokai" alt="Manoj Kumar" />
     </a> 
 </p>
-
-<p align="left">
-    <a href="https://twitter.com/ianalyticsgeek" target="blank">
-        <img src="https://img.shields.io/twitter/follow/ianalyticsgeek?logo=twitter&style=for-the-badge" alt="Manoj Kumar" />
-    </a>
-</p>
-
-
 
 
 <h3 align="left">Support:</h3>
