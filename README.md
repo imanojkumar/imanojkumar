@@ -140,6 +140,13 @@
     </a>
 </p>
                                                                                                      
+<p align="center">
+    <a href="#">
+        <img src="https://activity-graph.herokuapp.com/graph?username=imanojkumar&bg_color=0a0047&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true"/>
+    </a>
+</p>
+
+                                                                                                     
 <br>
 
 <h2>
@@ -174,17 +181,6 @@
 </p>
 
 <br>
-
-<h2>
-    ℹ️ <strong> Github Stats </strong> 
-    <a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/></a>
-</h2>
-
-<p align="center">
-    <a href="#">
-        <img src="https://activity-graph.herokuapp.com/graph?username=imanojkumar&bg_color=0a0047&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true"/>
-    </a>
-</p>
 
 <h2>
     Let's get connected on <strong>Discord !</strong> 
