@@ -113,7 +113,7 @@
 <h2>
     ℹ️ &nbsp; <strong> Github Stats </strong> &nbsp;
     <a href="#">
-        <img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/>
+        <img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif" align="right"/>
     </a>
 </h2>
 
@@ -121,6 +121,19 @@
     <a href="#">
         <img src="https://github-profile-trophy.vercel.app/?username=imanojkumar&title=Repositories,Stars,Followers,Commit,PullRequest&margin-w=15&theme=monokai" alt="Manoj Kumar" />
     </a> 
+</p>
+
+<br>
+<p>
+    <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api?username=imanojkumar&show_icons=true&theme=tokyonight" />
+    </a>
+    <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojkumar&layout=compact&theme=tokyonight" />
+    </a>
+    <a href="#">
+        <img src="https://activity-graph.herokuapp.com/graph?username=imanojkumar&bg_color=0a0047&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true"/>
+    </a>    
 </p>
 
 <br>
@@ -147,10 +160,7 @@
 <br>
 
 <h2>
-    <strong>Support</strong> &nbsp;&nbsp; 🙏
-    <a href="#">
-        <img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/>
-    </a>
+    <b>Support</b> &nbsp;&nbsp; 🙏
 </h2>
 
 <p>
@@ -159,15 +169,17 @@
     </a>
 </p>
 
-<br>
+<br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanojkumar&show_icons=true&locale=en&layout=compact" alt="imanojkumar" /></p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanojkumar&show_icons=true&locale=en&layout=compact" alt="imanojkumar" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imanojkumar&show_icons=true&locale=en" alt="imanojkumar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imanojkumar&" alt="imanojkumar" /></p>
 
-<br>
+<br><br>
 
 
 <h2>
@@ -180,20 +192,18 @@
     <a href="https://github.com/iManojKumar">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=imanojkumar&theme=tokyonight" />
     </a>
-<br> <br>
 </p>
 </div>
 
-<div align="center">
-    <br>
+<br><br>
+
+<div align="left">
     <a href="https://github.com/iManojKumar">
         <img src="https://github-readme-stats.vercel.app/api?username=imanojkumar&show_icons=true&theme=tokyonight" />
     </a>
-    <br>
     <a href="https://github.com/iManojKumar">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojkumar&layout=compact&theme=tokyonight" />
     </a>
-    <br>
     <a href="#">
         <img src="https://activity-graph.herokuapp.com/graph?username=imanojkumar&bg_color=0a0047&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true"/>
     </a>
