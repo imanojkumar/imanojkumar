@@ -113,6 +113,9 @@
 <h2>
     ℹ️ &nbsp; <strong> Github Stats </strong> &nbsp;
     <a href="#">
+         <img width="30px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="left" alt="GitHub Readme Stats" />
+    </a>
+    <a href="#">
         <img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif" align="right"/>
     </a>
 </h2>
@@ -126,12 +129,12 @@
 <br>
 <p>
     <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=imanojkumar&layout=compact&show_icons=true&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api?username=imanojkumar&layout=compact&show_icons=true&theme=flag-india" />
         &nbsp;&nbsp;
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojkumar&layout=compact&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojkumar&layout=compact&theme=flag-india" />
     </a>
     <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojkumar&layout=compact&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojkumar&layout=compact&theme=flag-india" />
     </a>
 </p>
 
