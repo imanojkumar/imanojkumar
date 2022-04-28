@@ -126,14 +126,13 @@
 <br>
 <p>
     <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=imanojkumar&show_icons=true&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api?username=imanojkumar&layout=compact&show_icons=true&theme=tokyonight" />
+        &nbsp;&nbsp;
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojkumar&layout=compact&theme=tokyonight" />
     </a>
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojkumar&layout=compact&theme=tokyonight" />
     </a>
-    <a href="#">
-        <img src="https://activity-graph.herokuapp.com/graph?username=imanojkumar&bg_color=0a0047&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true"/>
-    </a>    
 </p>
 
 <br>
