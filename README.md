@@ -8,51 +8,24 @@
 - 💞️ I’m looking to collaborate on #DigitalTransformation #AI #MachineLearning #DeepLearning #BERT #NLP
 - 📫 How to reach me - Just Following me on Twitter { @iAnalyticsGeek }
 
-<title>Manoj Kumar</title>
+
 <link rel="stylesheet" href="css/social-circles.css">
-<style>
-		body {
-				font-family: 'Avenir', 'HelveticaNeue', 'Helvetica';
-				text-align: center;
-				background-color: #E3E3D8;
-			}
-			.title {
-				margin: 24px 0;
-			}
-			h2 {
-				font-size: 56px;
-			}
-			h4 {
-				font-size: 28px;
-			}
-			ol {
-				list-style-type: none;
-				padding: 0;margin: 0;
-			}
-			ol li {
-				display: inline-block;
-				margin: 4px;
-			}
 
-			.social-button.borderless {
-				padding: 0 16px;
-			}
-</style>
+<h2>
+    Let's get connected on <strong> Social Plateforms :</strong> 
+    <a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/></a>
+</h2>
 
-<body>
-        <h2>
-            Let's get connected on <strong> Social Plateforms :</strong> 
-            <a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/></a>
-        </h2>
+<p>
+    <a class="icon-twitter social-button color" href="https://twitter.com/iAnalyticsGeek"></a>
+    <a class="icon-youtube social-button color" href="https://youtube.com/iAnalyticsGeek"></a>
+    <a class="icon-instagram social-button color" href="https://instagram.com/iAnalyticsGeek"></a>
+    <a class="icon-facebook social-button grey" href="https://facebook.com/iAnalyticsGeek"></a>
+</p>
 
-        <p>
-            <a class="icon-twitter social-button color" href="https://twitter.com/iAnalyticsGeek"></a>
-            <a class="icon-youtube social-button color" href="https://youtube.com/iAnalyticsGeek"></a>
-            <a class="icon-instagram social-button color" href="https://instagram.com/iAnalyticsGeek"></a>
-            <a class="icon-facebook social-button grey" href="https://facebook.com/iAnalyticsGeek"></a>
-        </p>
-        <br>
-        <p>
+<br>
+
+<p>
         <br>
             <a href="https://github.com/iManojKumar">
                 <img src="./assets/icons/other/github-solid.svg/" width="20px" />
@@ -123,4 +96,3 @@
                 <img src="https://discord.c99.nl/widget/theme-3/561170896480501790.png" alt="Manoj#9916:discord-profile"/>
             </a>
         </div>
-</body>
