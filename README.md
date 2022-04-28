@@ -108,25 +108,6 @@
 </p>
 <br>
 
-<h2>
-    Let's get connected on <strong> Social Plateforms :</strong> 
-    <a href="https://twitter.com/iAnalyticsGeek" target="_blank">
-    <img alt="Twitter: iAnalyticsGeek" src="https://img.shields.io/twitter/follow/iAnalyticsGeek.svg?style=social" target="_blank" align="right"/>
-  </a>
-</h2>
-
-<p align="left">
-<a href="https://twitter.com/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ianalyticsgeek" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/imanojkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imanojkumar" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/manoj kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="manoj kumar" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://kaggle.com/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ianalyticsgeek" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://fb.com/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ianalyticsgeek" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ianalyticsgeek" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://medium.com/imanojkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="imanojkumar" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/c/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ianalyticsgeek" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://discord.gg/imanojkumar#9916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="imanojkumar#9916" height="30" width="40" /></a>
-</p>
-
 <br>
 <h2>
     ℹ️ &nbsp; <strong> Github Stats </strong> &nbsp;
@@ -141,6 +122,28 @@
     </a> 
 </p>
 
+<br>
+
+<h2>
+    Let's get connected on <strong> Social Plateforms :</strong> 
+    <a href="https://twitter.com/iAnalyticsGeek" target="_blank">
+    <img alt="Twitter: iAnalyticsGeek" src="https://img.shields.io/twitter/follow/iAnalyticsGeek.svg?style=social" target="_blank" align="right"/>
+  </a>
+</h2>
+
+<p align="left">
+<a href="https://twitter.com/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ianalyticsgeek" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/imanojkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imanojkumar" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/manoj kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="manoj kumar" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://kaggle.com/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ianalyticsgeek" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://fb.com/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ianalyticsgeek" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ianalyticsgeek" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://medium.com/imanojkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="imanojkumar" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/c/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ianalyticsgeek" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://discord.gg/imanojkumar#9916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="imanojkumar#9916" height="40" width="40" /></a>
+</p>
+
+<br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/imanojumar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imanojumar" /></a></p><br><br>
