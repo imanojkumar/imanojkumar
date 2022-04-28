@@ -113,7 +113,7 @@
 <h2>
     ℹ️ &nbsp; <strong> Github Stats </strong> &nbsp;
     <a href="#">
-         <img width="30px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="left" alt="GitHub Readme Stats" />
+         <img width="30px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" alt="Manoj Kumar's GitHub Stats" />
     </a>
     <a href="#">
         <img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif" align="right"/>
@@ -134,15 +134,13 @@
     </a>
 </p>
 
-<div align="center">
-<p>
+<p align="center">
     <a href="https://github.com/iManojKumar">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=imanojkumar&theme=tokyonight" />
     </a>
 </p>
-</div>
                                                                                                      
-<br><br><br>
+<br>
 
 <h2>
     Let's get connected on <strong> Social Plateforms :</strong> &nbsp; 🤝
@@ -175,45 +173,17 @@
     </a>
 </p>
 
-<br><br>
-
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanojkumar&show_icons=true&locale=en&layout=compact" alt="imanojkumar" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imanojkumar&show_icons=true&locale=en" alt="imanojkumar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imanojkumar&" alt="imanojkumar" /></p>
-
-<br><br>
-
+<br>
 
 <h2>
     ℹ️ <strong> Github Stats </strong> 
     <a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/></a>
 </h2>
 
-<div align="center">
-<p>
-    <a href="https://github.com/iManojKumar">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=imanojkumar&theme=tokyonight" />
-    </a>
-</p>
-</div>
-
-<br><br>
-
-<div align="left">
-    <a href="https://github.com/iManojKumar">
-        <img src="https://github-readme-stats.vercel.app/api?username=imanojkumar&show_icons=true&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/iManojKumar">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojkumar&layout=compact&theme=tokyonight" />
-    </a>
+<p align="center">
     <a href="#">
         <img src="https://activity-graph.herokuapp.com/graph?username=imanojkumar&bg_color=0a0047&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true"/>
     </a>
-</div> 
 </p>
 
 <h2>
