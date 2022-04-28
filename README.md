@@ -1,3 +1,10 @@
+.mainContent{
+    width: 100%;
+    height: auto;
+    background-color: DodgerBlue;
+    background-repeat: repeat-x;
+}
+
 ## Namaste! Hello! Olá! Bonjour! Hola! Guten tag! Salve! Nǐn hǎo! Konnichiwa! Anyoung haseyo! Zdravstvuyte! 👋
 
 ## ✨ Welcome to My GitHub Page. ✨ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
