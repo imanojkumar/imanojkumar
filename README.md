@@ -180,7 +180,7 @@
     </a>
 </p>
 
-<br>
+<br><br>
 
 <h2>
     Let's get connected on <strong>Discord !</strong> 
