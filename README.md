@@ -109,6 +109,9 @@
 
 <h2>
     Let's get connected on <strong> Social Plateforms :</strong> 
+    <a href="https://twitter.com/iAnalyticsGeek" target="_blank">
+    <img alt="Twitter: iAnalyticsGeek" src="https://img.shields.io/twitter/follow/iAnalyticsGeek.svg?style=social" target="_blank" align="right"/>
+  </a>
 </h2>
 
 <p align="left">
@@ -126,9 +129,6 @@
 <br>
 <h2>
     ℹ️ &nbsp; <strong> Github Stats </strong> &nbsp;
-    <a href="https://twitter.com/iAnalyticsGeek" target="_blank">
-    <img alt="Twitter: iAnalyticsGeek" src="https://img.shields.io/twitter/follow/iAnalyticsGeek.svg?style=social" target="_blank" align="right"/>
-  </a>
     <a href="#">
         <img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/>
     </a>
@@ -136,7 +136,7 @@
 
 <p align="left"> 
     <a href="#">
-        <img src="https://github-profile-trophy.vercel.app/?username=imanojkumar&title=Stars,Followers" alt="Manoj Kumar" />
+        <img src="https://github-profile-trophy.vercel.app/?username=imanojkumar&title=Repositories,Stars,Followers,Commit&margin-w=15" alt="Manoj Kumar" />
     </a> 
 </p>
 
