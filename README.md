@@ -8,12 +8,10 @@
 - 💞️ I’m looking to collaborate on #DigitalTransformation #AI #MachineLearning #DeepLearning #BERT #NLP
 - 📫 How to reach me - Just Following me on Twitter { @iAnalyticsGeek }
 
-<html>
-	<head>
-		<title>Manoj Kumar</title>
-		<link rel="stylesheet" href="css/social-circles.css">
-		<style>
-			body {
+<title>Manoj Kumar</title>
+<link rel="stylesheet" href="css/social-circles.css">
+<style>
+		body {
 				font-family: 'Avenir', 'HelveticaNeue', 'Helvetica';
 				text-align: center;
 				background-color: #E3E3D8;
@@ -39,9 +37,9 @@
 			.social-button.borderless {
 				padding: 0 16px;
 			}
-		</style>
-	</head>
-	<body>
+</style>
+
+<body>
         <h2>
             Let's get connected on <strong> Social Plateforms :</strong> 
             <a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/></a>
@@ -125,5 +123,4 @@
                 <img src="https://discord.c99.nl/widget/theme-3/561170896480501790.png" alt="Manoj#9916:discord-profile"/>
             </a>
         </div>
-    </body>
-</html>
+</body>
