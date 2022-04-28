@@ -127,14 +127,22 @@
 </p>
 <p>
     <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=imanojkumar&layout=compact&show_icons=true&theme=flag-india" style="width:350px;"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=imanojkumar&layout=compact&show_icons=true&theme=flag-india" style="width:380px;"/>
     </a> &nbsp;&nbsp;
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojkumar&layout=compact&theme=flag-india&hide=javascript,html,css&langs_count=4" style="width:300px;/>
     </a>
 </p>
 
-<br>
+<div align="center">
+<p>
+    <a href="https://github.com/iManojKumar">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=imanojkumar&theme=tokyonight" />
+    </a>
+</p>
+</div>
+                                                                                                     
+<br><br><br>
 
 <h2>
     Let's get connected on <strong> Social Plateforms :</strong> &nbsp; 🤝
