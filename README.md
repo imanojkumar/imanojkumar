@@ -1,6 +1,6 @@
-## Namaste! Hello! Olá! Bonjour! Hola! Guten tag! Salve! Nǐn hǎo! Konnichiwa! Anyoung haseyo! Zdravstvuyte! 👋 <a href="#"><img src="https://komarev.com/ghpvc/?username=imanojkumar&label=Profile%20views&color=0e75b6&style=flat" alt="Manoj Kumar" align="right" /></a>
+## Namaste! Hello! Olá! Bonjour! Hola! Guten tag! Salve! Nǐn hǎo! Konnichiwa! Anyoung haseyo! Zdravstvuyte! 👋 
 
-## ✨ Welcome to My GitHub Page. ✨ <a href="#"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></a>
+## ✨ Welcome to My GitHub Page. ✨ <a href="#"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=imanojkumar&label=Profile%20views&color=0e75b6&style=flat" alt="Manoj Kumar" align="right" /></a>
 
 - 👋 I’m Manoj Kumar { @imanojkumar on GitHub} - A passionate natural resources domain specific data science prrofessional from India
 - 👀 I’m interested in Data Science, Business Analytics and Digital Transformation
@@ -12,24 +12,23 @@
 
 <h2>
     Let's get connected on <strong> Social Plateforms :</strong> 
-    <a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif" /></a>
 </h2>
 
-<p align="left">
-<a href="https://twitter.com/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ianalyticsgeek" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/imanojkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imanojkumar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/manoj kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="manoj kumar" height="30" width="40" /></a>
-<a href="https://kaggle.com/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ianalyticsgeek" height="30" width="40" /></a>
-<a href="https://fb.com/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ianalyticsgeek" height="30" width="40" /></a>
-<a href="https://instagram.com/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ianalyticsgeek" height="30" width="40" /></a>
-<a href="https://medium.com/imanojkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="imanojkumar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ianalyticsgeek" height="30" width="40" /></a>
+<p align="center">
+<a href="https://twitter.com/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ianalyticsgeek" height="30" width="40" /></a>&npsp;&npsp;
+<a href="https://linkedin.com/in/imanojkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imanojkumar" height="30" width="40" /></a>&npsp;
+<a href="https://stackoverflow.com/users/manoj kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="manoj kumar" height="30" width="40" /></a>&npsp;&npsp;
+<a href="https://kaggle.com/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ianalyticsgeek" height="30" width="40" /></a>&npsp;&npsp;
+<a href="https://fb.com/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ianalyticsgeek" height="30" width="40" /></a>&npsp;&npsp;
+<a href="https://instagram.com/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ianalyticsgeek" height="30" width="40" /></a>&npsp;&npsp;
+<a href="https://medium.com/imanojkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="imanojkumar" height="30" width="40" /></a>&npsp;&npsp;
+<a href="https://www.youtube.com/c/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ianalyticsgeek" height="30" width="40" /></a>&npsp;&npsp;
 <a href="https://discord.gg/imanojkumar#9916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="imanojkumar#9916" height="30" width="40" /></a>
 </p>
 
 <br>
 <h2>
-    ℹ️ <strong> Github Stats </strong> 
+    ℹ️ &npsp; <strong> Github Stats </strong> &npsp;
     <a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/></a>
 </h2>
 <p align="left"> 
