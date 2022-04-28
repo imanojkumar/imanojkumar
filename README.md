@@ -10,11 +10,16 @@
 
 
 <link rel="stylesheet" href="../css/social-circles.css">
+<script src="https://kit.fontawesome.com/f7187ce1e1.js" crossorigin="anonymous"></script>
 
 <h2>
     Let's get connected on <strong> Social Plateforms :</strong> 
     <a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/></a>
 </h2>
+<p>
+    <a href="https://github.com/KPDMadhuka"><i class="fab fa-github"></i></a>
+<br>
+</p>
 
 <p>
     <a class="icon-twitter social-button color" href="https://twitter.com/iAnalyticsGeek"></a>
@@ -22,7 +27,6 @@
     <a class="icon-instagram social-button color" href="https://instagram.com/iAnalyticsGeek"></a>
     <a class="icon-facebook social-button grey" href="https://facebook.com/iAnalyticsGeek"></a>
 </p>
-
 <br>
 
 <p>
