@@ -132,9 +132,6 @@
     </a>    
 </p>
 
-<p align="right">
-[![Manoj-Kumar StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/4026992)](https://stackoverflow.com/users/4026992/manoj-kumar)
-</p>
 
 <br>
 
@@ -175,7 +172,21 @@
     </a>
 </p>
 
-                                                                                                     
+<br>
+
+<h3>My Publications</h3>
+<ul>
+  <li>
+  <a href="https://www.mdedge.com/fedprac/article/231303/diabetes/evaluation-metabolic-monitoring-and-diabetes-incidence-first-year"><b>Evaluation of Metabolic Monitoring and Diabetes Incidence in the First Year for Veterans Newly Started on an Atypical Antipsychotic</b></a><br/><i>Adverse drug effects and poor lab monitoring practices put patients at risk.</i>
+  </li>
+  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6145609/"><b>Worsening Choreoathetosis in Huntington’s Disease with Fluoxetine, Lisdexamfetamine, and Melatonin</b></a><br/><i>A case study of a curious adverse drug reaction.</i></li>
+</ul>
+
+<h3>My Blog Post(s)</h3>
+<ul>
+  <li><a href="https://clayton-hamilton.medium.com/is-a-pharmacy-residency-right-for-you-9660f6e35fcb"><b>Is pharmacy residency right for you?</b></a><br/><i>Things to ponder prior to entering the ASHP match process.</i></li>
+</ul>
+                                                                                                
 <br>
 
 <h2>
