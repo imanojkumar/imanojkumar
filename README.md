@@ -1,3 +1,9 @@
+[![Linkedin Badge](https://img.shields.io/badge/-imanojkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imanojkumar/)](https://www.linkedin.com/in/imanojkumar/)
+[![Instagram Badge](https://img.shields.io/badge/-ianalyticsgeek-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ianalyticsgeek/)](https://instagram.com/ianalyticsgeek)
+[![Youtube Badge](https://img.shields.io/badge/-ianalyticsgeek-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/iAnalyticsGeek)](https://www.youtube.com/c/iAnalyticsGeek)
+[![Medium Badge](https://img.shields.io/badge/-@imanojkumar-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@imanojkumar/)](https://medium.com/@imanojkumar)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+
 # Namaste! Hello! Olá! Bonjour! Hola! Guten tag! Salve! Nǐn hǎo! Konnichiwa! Anyoung haseyo! Zdravstvuyte! 👋 
 
 ## ✨ Welcome to My GitHub Page. ✨ <a href="#"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=imanojkumar&label=Profile%20views&color=0e75b6&style=flat" alt="Manoj Kumar" align="right" /></a>
