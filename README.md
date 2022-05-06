@@ -115,9 +115,11 @@
     <a href="#">
          <img width="30px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" alt="Manoj Kumar's StackOverFlow Stats" />
     </a>
-    <a href="#">
-        <img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif" align="right"/>
+    
+    <a href="https://stackoverflow.com/users/4026992/manoj-kumar" target="_blank">
+        <img src="https://img.shields.io/badge/Stack%20Overflow-802-F47F24" alt="Manoj Kumar's GitHub Stats" align="right" />
     </a>
+    
 </h2>
 
 <p align="left">
@@ -137,6 +139,7 @@
     <a href="#">
         <img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif" align="right"/>
     </a>
+    
 </h2>
 
 <p align="left"> 
