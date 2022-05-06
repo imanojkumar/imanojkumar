@@ -16,7 +16,9 @@
 
 <br>
 
-## Languages and Tools: <a href="https://twitter.com/ianalyticsgeek" target="blank"> <img src="https://img.shields.io/twitter/follow/ianalyticsgeek?logo=twitter&style=for-the-badge" alt="Manoj Kumar"  align="right" /></a>
+<h2>
+    ℹ️ &nbsp; <strong>Languages and Tools: </strong> <a href="https://twitter.com/ianalyticsgeek" target="blank"> <img src="https://img.shields.io/twitter/follow/ianalyticsgeek?logo=twitter&style=for-the-badge" alt="Manoj Kumar"  align="right" /></a>
+</h2>
 
 <p align="left"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> 
