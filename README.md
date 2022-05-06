@@ -260,3 +260,10 @@
 </div>
                                                                                                                 
 <br>
+
+<p align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
+<br>
+<img alt="centered image" height="85" src="images/india.svg"/>
+</p>
+                                                                                                                
