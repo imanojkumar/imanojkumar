@@ -127,11 +127,14 @@
 </h2>
 
 <p align="left">
-    <a href="https://stackoverflow.com/users/4026992/wasitshafi" target="_blank">
+    <a href="https://stackoverflow.com/users/4026992/manoj-kumar" target="_blank">
         <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=4026992" />
     </a>    
 </p>
 
+<p align="right">
+[![Manoj-Kumar StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/4026992)](https://stackoverflow.com/users/4026992/manoj-kumar)
+</p>
 
 <br>
 
