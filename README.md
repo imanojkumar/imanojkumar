@@ -114,6 +114,14 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
     </a> 
 </p>
+
+<h3>📄 Favorite Languages:</h3>
+<p>
+<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
+<a target="_blank"><img alt="R" src="https://img.shields.io/badge/R-%2312100E.svg?logo=r&style=for-the-badge&logoColor=blue"/></a> 
+</p>
+
 <br>
 
 <h2>
