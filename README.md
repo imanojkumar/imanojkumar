@@ -117,9 +117,17 @@
 
 <h3>📄 Favorite Languages:</h3>
 <p>
-<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
-<a target="_blank"><img alt="R" src="https://img.shields.io/badge/R-%2312100E.svg?logo=r&style=for-the-badge&logoColor=blue"/></a> 
+<a href="#" target="_blank" alt="SQL"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
+<a href="#" target="_blank" alt="Python"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
+<a href="#" target="_blank" alt="R"><img alt="R" src="https://img.shields.io/badge/R-%2312100E.svg?logo=r&style=for-the-badge&logoColor=blue"/></a> 
+</p>
+
+<h3>⚒ Favorite Tools:</h3>
+<p>
+<a href="#" target="_blank" alt="Visual Studio Code"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a> 
+<a href="#" target="_blank" alt="Power BI"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-black?logo=Power%20BI&logoColor=yellow&style=for-the-badge"/></a> 
+<a href="#" target="_blank" alt="Git"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
+<a href="#" target="_blank" alt="GitHub"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
 </p>
 
 <br>
