@@ -2,7 +2,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-ianalyticsgeek-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ianalyticsgeek/)](https://instagram.com/ianalyticsgeek)
 [![Youtube Badge](https://img.shields.io/badge/-ianalyticsgeek-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/iAnalyticsGeek)](https://www.youtube.com/c/iAnalyticsGeek)
 [![Medium Badge](https://img.shields.io/badge/-@imanojkumar-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@imanojkumar/)](https://medium.com/@imanojkumar)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-manojkumar74138005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manojkumar74138005@gmail.com)](mailto:manojkumar74138005@gmail.com)
 
 # Namaste! Hello! Olá! Bonjour! Hola! Guten tag! Salve! Nǐn hǎo! Konnichiwa! Anyoung haseyo! Zdravstvuyte! 👋 
 
