@@ -128,6 +128,7 @@
 <a href="#" target="_blank" alt="Power BI"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-black?logo=Power%20BI&logoColor=yellow&style=for-the-badge"/></a> 
 <a href="#" target="_blank" alt="Git"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
 <a href="#" target="_blank" alt="GitHub"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
+<a href="#" target="_blank" alt="RStudio"><img alt="RStudio" src="https://img.shields.io/badge/RStudio-black?logo=RStudio&style=for-the-badge"/></a>
 </p>
 
 <br>
