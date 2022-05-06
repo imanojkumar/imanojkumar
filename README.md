@@ -111,6 +111,25 @@
 <br>
 
 <h2>
+    ℹ️ &nbsp; <strong> StackOverFlow Stats </strong> &nbsp;
+    <a href="#">
+         <img width="30px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" alt="Manoj Kumar's StackOverFlow Stats" />
+    </a>
+    <a href="#">
+        <img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif" align="right"/>
+    </a>
+</h2>
+
+<p align="left">
+    <a href="https://stackoverflow.com/users/10249156/wasitshafi" target="_blank">
+    <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=4026992" />
+    </a>    
+</p>
+
+
+<br>
+
+<h2>
     ℹ️ &nbsp; <strong> Github Stats </strong> &nbsp;
     <a href="#">
          <img width="30px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" alt="Manoj Kumar's GitHub Stats" />
