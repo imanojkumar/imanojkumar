@@ -8,7 +8,7 @@
 
 ## ✨ Welcome to My GitHub Page. ✨ <a href="#"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=imanojkumar&label=Profile%20views&color=0e75b6&style=flat" alt="Manoj Kumar" align="right" /></a>
 
-- 👋 I’m Manoj Kumar { @imanojkumar on GitHub} - A passionate natural resources domain specific data science prrofessional from India
+- 👋 I’m Manoj Kumar { @imanojkumar on GitHub} - A passionate natural resources domain specific data science prrofessional from India <img src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/IN.svg" height="15" alt="India" />
 - 👀 I’m interested in Data Science, Business Analytics and Digital Transformation
 - 🌱 I’m currently learning Data Mesh and Data Product for Natural Resources Businesses
 - 💞️ I’m looking to collaborate on #DigitalTransformation #AI #MachineLearning #DeepLearning #BERT #NLP
