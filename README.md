@@ -124,11 +124,12 @@
 
 <h3>⚒ Favorite Tools:</h3>
 <p>
-<a href="#" target="_blank" alt="Visual Studio Code"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a> 
-<a href="#" target="_blank" alt="Power BI"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-black?logo=Power%20BI&logoColor=yellow&style=for-the-badge"/></a> 
-<a href="#" target="_blank" alt="Git"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
-<a href="#" target="_blank" alt="GitHub"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
-<a href="#" target="_blank" alt="RStudio"><img alt="RStudio" src="https://img.shields.io/badge/RStudio-black?logo=RStudio&style=for-the-badge"/></a>
+    <a href="#" target="_blank" alt="RStudio"><img alt="RStudio" src="https://img.shields.io/badge/RStudio-black?logo=RStudio&style=for-the-badge"/></a>
+    <a href="#" target="_blank" alt="Visual Studio Code"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a>
+    <a href="#" target="_blank" alt="Jupyter"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-black?logo=Jupyter&style=for-the-badge"/></a>
+    <a href="#" target="_blank" alt="Power BI"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-black?logo=Power%20BI&logoColor=yellow&style=for-the-badge"/></a> 
+    <a href="#" target="_blank" alt="Git"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
+    <a href="#" target="_blank" alt="GitHub"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a>
 </p>
 
 <br>
