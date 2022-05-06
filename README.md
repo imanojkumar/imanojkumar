@@ -134,6 +134,16 @@
     <a href="#" target="_blank" alt="GitHub"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a>
 </p>
 
+<h3>⚡Favorite Technology:</h3>
+<p>
+    <a href="#" target="_blank" alt="Docker"><img alt="Docker" src="https://img.shields.io/badge/Docker-black?logo=Docker&style=for-the-badge"/></a>
+    <a href="#" target="_blank" alt="Google Cloud"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%2312100E.svg?logo=google-cloud&style=for-the-badge&logoColor=blue"/></a>
+    <a href="#" target="_blank" alt="Flask"><img alt="Flask" src="https://img.shields.io/badge/Flask-black?logo=Flask&style=for-the-badge"/></a>
+    <a href="#" target="_blank" alt="Fast API"><img alt="Fast API" src="https://img.shields.io/badge/fastapi-black?logo=fastapi&logoColor=yellow&style=for-the-badge"/></a> 
+    <a href="#" target="_blank" alt="TensorFlow"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%2312100E.svg?logo=TensorFlow&style=for-the-badge"/></a> 
+    <a href="#" target="_blank" alt="PyTorch"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-black?logo=PyTorch&style=for-the-badge"/></a>
+</p>
+
 <br>
 
 <h2>
