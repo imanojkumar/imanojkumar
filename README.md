@@ -115,16 +115,14 @@
     <a href="#">
          <img width="30px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" alt="Manoj Kumar's StackOverFlow Stats" />
     </a>
-    
     <a href="https://stackoverflow.com/users/4026992/manoj-kumar" target="_blank">
-        <img src="https://img.shields.io/badge/Stack%20Overflow-802-F47F24" alt="Manoj Kumar's GitHub Stats" align="right" />
+        <img src="https://img.shields.io/badge/Stack%20Overflow-802-F47F24" align="right" />
     </a>
-    
 </h2>
 
 <p align="left">
     <a href="https://stackoverflow.com/users/4026992/wasitshafi" target="_blank">
-    <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=4026992" />
+        <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=4026992" />
     </a>    
 </p>
 
