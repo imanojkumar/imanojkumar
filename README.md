@@ -264,6 +264,6 @@
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
 <br>
-<img alt="centered image" height="85" src="images/india.svg"/>
+<img alt="centered image" height="85" src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/IN.svg"/>
 </p>
                                                                                                                 
