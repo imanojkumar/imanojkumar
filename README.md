@@ -271,8 +271,8 @@
     <a href="https://www.buymeacoffee.com/imanojumar" target="_blank">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imanojumar" />
     </a>
-    <a href="https://www.paypal.me/imanojumar" target="_blank">
-        <img src="https://ionicabizau.github.io/badges/paypal.svg" alt="paypal.me/imanojumar" height="50" width="210" />
+    <a href="https://www.paypal.me/iamshutterbug" target="_blank">
+        <img src="https://ionicabizau.github.io/badges/paypal.svg" alt="paypal.me/iamshutterbug" height="50" width="210" />
     </a>
 </p>
 
