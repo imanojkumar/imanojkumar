@@ -215,7 +215,16 @@
 
 <br>
 
-<h3>My Publications</h3>
+<h2>My Curent Projects</h2>
+* [ ] <a href="https://selenium-python.readthedocs.io/installation.html#drivers" target="_blank"> Project 1 </a>
+* [ ] <a href="https://selenium-python.readthedocs.io/installation.html#drivers" target="_blank"> Project 2 </a>
+* [ ] <a href="https://selenium-python.readthedocs.io/installation.html#drivers" target="_blank"> Project 3 </a>
+* [ ] <a href="https://selenium-python.readthedocs.io/installation.html#drivers" target="_blank"> Project 4 </a>
+* [ ] <a href="https://selenium-python.readthedocs.io/installation.html#drivers" target="_blank"> Project 5 </a>
+                                                                                                
+<br>
+
+<h2>My Publications</h2>
 <ul>
   <li>
   <a href="https://www.mdedge.com/fedprac/article/231303/diabetes/evaluation-metabolic-monitoring-and-diabetes-incidence-first-year"><b>Evaluation of Metabolic Monitoring and Diabetes Incidence in the First Year for Veterans Newly Started on an Atypical Antipsychotic</b></a><br/><i>Adverse drug effects and poor lab monitoring practices put patients at risk.</i>
@@ -244,7 +253,7 @@
 <a href="https://kaggle.com/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ianalyticsgeek" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://fb.com/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ianalyticsgeek" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ianalyticsgeek" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://medium.com/imanojkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="imanojkumar" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://medium.com/@imanojkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="imanojkumar" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/c/ianalyticsgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ianalyticsgeek" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://discord.gg/imanojkumar#9916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="imanojkumar#9916" height="40" width="40" /></a>
 </p>
@@ -264,7 +273,7 @@
     </a>
 </p>
 
-<br><br><br>
+<br>
 
 <h2>
     Let's get connected on <b>Discord !</b> &nbsp; ❤️
