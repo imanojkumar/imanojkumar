@@ -255,17 +255,16 @@
 <h2>
     Let's get connected on <strong>Discord !</strong> 
     <a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/></a>
+    <a href="https://github.com/iManojKumar" target="_blank">
+    <img align="right" src="https://komarev.com/ghpvc/?username=imanojkumar&color=5865F2" />
+    </a> 
 </h2>
-
-<a href="https://github.com/iManojKumar">
-  <img align="right" src="https://komarev.com/ghpvc/?username=imanojkumar&color=5865F2" />
-</a> 
-   I believe, <strong> <a href="https://discord.com">Discord</a></strong> is great to use to talk to our friends. 🚀
+I believe, <strong> <a href="https://discord.com">Discord</a></strong> is great to use to talk to our friends. 🚀
 <br><br>
 
 <div>
     <a href="https://discord.com/channels/968531818414485564/968531819043647510" target="_blank">
-        <img src="https://github.com/imanojkumar/imanojkumar/blob/main/images/discord2.PNG" height="250" width="380" align="center" alt="Manoj#9916:discord-profile"/>
+        <img src="https://github.com/imanojkumar/imanojkumar/blob/main/images/discord2.PNG" height="250" width="320" align="center" alt="Manoj#9916:discord-profile"/>
     </a>
 </div>
                                                                                                                 
@@ -273,6 +272,6 @@
 
 <p align="center">
 <br>
-<img alt="centered image" height="85" src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/IN.svg"/>
+<img alt="India" height="85" src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/IN.svg"/>
 </p>
                                                                                                                 
