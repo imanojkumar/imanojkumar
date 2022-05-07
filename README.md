@@ -264,15 +264,14 @@
 <br><br>
 
 <div>
-    <a href="https://discord.com/channels/968531818414485564/968531819043647510">
-        <img src="https://discord.c99.nl/widget/theme-3/561170896480501790.png" alt="Manoj#9916:discord-profile"/>
+    <a href="https://discord.com/channels/968531818414485564/968531819043647510" target="_blank">
+        <img src="https://github.com/imanojkumar/imanojkumar/blob/main/images/discord2.PNG" height="85" alt="Manoj#9916:discord-profile"/>
     </a>
 </div>
                                                                                                                 
 <br>
 
 <p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
 <br>
 <img alt="centered image" height="85" src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/IN.svg"/>
 </p>
