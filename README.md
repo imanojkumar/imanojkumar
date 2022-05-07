@@ -17,11 +17,9 @@
 
 <br>
 
-<hr>
 <p align="center">
 <a href="https://github.com/imanojkumar" target="_blank"><img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source Love"></a><br/>
 </p>
-<hr>
 
 <br>
 
