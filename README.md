@@ -265,7 +265,7 @@
 
 <div>
     <a href="https://discord.com/channels/968531818414485564/968531819043647510" target="_blank">
-        <img src="https://github.com/imanojkumar/imanojkumar/blob/main/images/discord2.PNG" height="120" width="350" alt="Manoj#9916:discord-profile"/>
+        <img src="https://github.com/imanojkumar/imanojkumar/blob/main/images/discord2.PNG" height="250" width="380" align="center" alt="Manoj#9916:discord-profile"/>
     </a>
 </div>
                                                                                                                 
