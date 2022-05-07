@@ -216,6 +216,7 @@
 <br>
 
 <h2>My Curent Projects</h2>
+
 * [ ] <a href="https://selenium-python.readthedocs.io/installation.html#drivers" target="_blank"> Project 1 </a>
 * [ ] <a href="https://selenium-python.readthedocs.io/installation.html#drivers" target="_blank"> Project 2 </a>
 * [ ] <a href="https://selenium-python.readthedocs.io/installation.html#drivers" target="_blank"> Project 3 </a>
