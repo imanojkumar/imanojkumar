@@ -4,6 +4,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@imanojkumar-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@imanojkumar/)](https://medium.com/@imanojkumar)
 [![Gmail Badge](https://img.shields.io/badge/-manojkumar74138005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manojkumar74138005@gmail.com)](mailto:manojkumar74138005@gmail.com)
 
+
 # Namaste! Hello! Olá! Bonjour! Hola! Guten tag! Salve! Nǐn hǎo! Konnichiwa! Anyoung haseyo! Zdravstvuyte! 👋 
 
 ## ✨ Welcome to My GitHub Page. ✨ <a href="#"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></a> <a href="#"><img src="https://komarev.com/ghpvc/?username=imanojkumar&label=Profile%20views&color=0e75b6&style=flat" alt="Manoj Kumar" align="right" /></a>
@@ -13,6 +14,14 @@
 - 🌱 I’m currently learning Data Mesh and Data Product for Natural Resources Businesses
 - 💞️ I’m looking to collaborate on #DigitalTransformation #AI #MachineLearning #DeepLearning #BERT #NLP
 - 📫 How to reach me - Just Following me on Twitter { @iAnalyticsGeek }
+
+<br>
+
+<hr>
+<p align="center">
+<a href="https://github.com/imanojkumar" target="_blank"><img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source Love"></a><br/>
+</p>
+<hr>
 
 <br>
 
