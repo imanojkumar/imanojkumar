@@ -282,7 +282,8 @@ I believe, <strong> <a href="https://discord.com">Discord</a></strong> is great 
 <hr>
 <p align="center">
 <b>Thanks!</b> :heart: and <b>Cheers!</b> :beers:
-<br>
+<br><br>
+<b>Please Visit My Beautiful Country</b> <br><br>
 <img alt="India" height="85" src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/IN.svg"/>
 </p>
                                                                                                                 
