@@ -167,18 +167,13 @@
     <a href="https://stackoverflow.com/users/4026992/manoj-kumar" target="_blank">
         <img alt="StackOverflow Reps" src="https://serverless-api-ebon.vercel.app/api?years=8" />
     </a>
-    <br>
+
     <br/>
     And my <b>first pick</b> was <b>R</b>, then after 2 years, <b>Python</b>, <b>SQL</b> and <b>PySpark</b>. 
     <a href="https://github.com/imanojkumar" target="_blank">
-     <img src="https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103" alt="Manoj Kumar's Love for Open Source" />
+     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Manoj Kumar's Love for Open Source" />
     </a>
 </p>
-
-<p align="center">
-    <a href="https://github.com/imanojkumar" target="_blank"><img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source Love"></a>
-</p>
-
 
 <br>
 
