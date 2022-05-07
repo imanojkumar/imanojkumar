@@ -170,7 +170,9 @@
     <br>
     <br/>
     And my <b>first pick</b> was <b>R</b>, then after 2 years, <b>Python</b>, <b>SQL</b> and <b>PySpark</b>. 
-    [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/imanojkumar/)
+    <a href="https://github.com/imanojkumar" target="_blank">
+         <img width="30px" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Manoj Kumar's Love for Open Source" />
+    </a>
 </p>
 
 
