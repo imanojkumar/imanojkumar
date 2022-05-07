@@ -233,7 +233,9 @@
   <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6145609/"><b>Worsening Choreoathetosis in Huntington’s Disease with Fluoxetine, Lisdexamfetamine, and Melatonin</b></a><br/><i>A case study of a curious adverse drug reaction.</i></li>
 </ul>
 
-<h3>My Blog Post(s)</h3>
+<br>
+                                                                     
+<h2>My Blog Post(s)</h2>
 <ul>
   <li><a href="https://clayton-hamilton.medium.com/is-a-pharmacy-residency-right-for-you-9660f6e35fcb"><b>Is pharmacy residency right for you?</b></a><br/><i>Things to ponder prior to entering the ASHP match process.</i></li>
 </ul>
