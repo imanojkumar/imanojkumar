@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/imanojkumar" target="_blank"><img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source Love"></a><br/>
+<a href="https://github.com/imanojkumar" target="_blank"><img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source Love"></a>
 </p>
 
 <br>
@@ -168,7 +168,9 @@
         <img alt="StackOverflow Reps" src="https://serverless-api-ebon.vercel.app/api?years=8" />
     </a>
     <br>
-    And my <b>first pick</b> was <b>R</b>, then after 2 years, <b>Python</b>, <b>SQL</b> and <b>PySpark</b>.
+    <br/>
+    And my <b>first pick</b> was <b>R</b>, then after 2 years, <b>Python</b>, <b>SQL</b> and <b>PySpark</b>. 
+    [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/imanojkumar/)
 </p>
 
 
