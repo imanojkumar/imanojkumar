@@ -158,8 +158,10 @@
 
 <p align="left">
     <a href="https://stackoverflow.com/users/4026992/manoj-kumar" target="_blank">
-        <img alt="StackOverflow Reps" src="https://serverless-api-ebon.vercel.app/api?years=6" />
-    </a>    
+        <img alt="StackOverflow Reps" src="https://serverless-api-ebon.vercel.app/api?years=8" />
+    </a>
+    <br>
+    And my <b>first pick</b> was <b>R</b>, then after 2 years, <b>Python</b>, <b>SQL</b> and <b>PySpark</b>.
 </p>
 
 
