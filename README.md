@@ -264,8 +264,7 @@
 <br><br><br>
 
 <h2>
-    Let's get connected on <strong>Discord !</strong> 
-    <a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/></a>
+    Let's get connected on <b>Discord !</b> &nbsp; ❤️
     <a href="https://github.com/iManojKumar" target="_blank">
     <img align="right" src="https://komarev.com/ghpvc/?username=imanojkumar&color=5865F2" />
     </a> 
@@ -280,8 +279,9 @@ I believe, <strong> <a href="https://discord.com">Discord</a></strong> is great 
 </div>
                                                                                                                 
 <br>
-
+<hr>
 <p align="center">
+<b>Thanks!</b> :heart: and <b>Cheers!</b> :beers:
 <br>
 <img alt="India" height="85" src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/SVG/IN.svg"/>
 </p>
