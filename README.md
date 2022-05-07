@@ -252,12 +252,18 @@
 <br>
 
 <h2>
-    <b>Support</b> &nbsp;&nbsp; 🙏
+    <b>Support</b> &nbsp; 🙏
 </h2>
 
 <p>
-    <a href="https://www.buymeacoffee.com/imanojumar">
+    <a href="https://www.buymeacoffee.com/imanojumar" target="_blank">
         <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imanojumar" align="center"/>
+    </a>
+    <a href="https://www.buymeacoffee.com/huaming.huang" target="_blank">
+        <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="210" />
+    </a>
+    <a href="https://www.paypal.me/imanojumar" target="_blank">
+        <img src="https://ionicabizau.github.io/badges/paypal.svg" alt="paypal.me/imanojumar" height="50" width="210" />
     </a>
 </p>
 
