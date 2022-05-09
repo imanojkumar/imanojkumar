@@ -285,13 +285,12 @@
 
 <br>
 
-<h2>
-    Let's get connected on <b>Discord !</b> &nbsp; ❤️
-    <a href="https://github.com/iManojKumar" target="_blank">
+<h2>:iphone: Let's get Connected on <b>Discord !</b> &nbsp; ❤️
+  <a href="https://github.com/iManojKumar" target="_blank">
     <img align="right" src="https://komarev.com/ghpvc/?username=imanojkumar&color=5865F2" />
-    </a> 
+  </a> 
 </h2>
-I believe, <strong> <a href="https://discord.com">Discord</a></strong> is great to use to talk to our friends. 🚀
+I believe, <strong> <a href="https://discord.com">Discord</a></strong> is great :bulb: to use to talk to our friends. 🚀
 <br><br>
 
 <div>
@@ -303,7 +302,15 @@ I believe, <strong> <a href="https://discord.com">Discord</a></strong> is great 
 <br>
 
 <h2> 🌟 Highlighted Repositories :pushpin: </h2>
-
+<a href="https://github.com/imanojkumar/Finance-Full-Stack-Web-App-using-Flask-and-SQL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imanojkumar&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQL&theme=github_dark"/>
+</a>
+<a href="https://github.com/imanojkumar/time-series-forecasting-with-python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imanojkumar&repo=time-series-forecasting-with-pythonr&theme=github_dark"/>
+</a>
+<a href="https://github.com/imanojkumar/Deep-Learning-In-Production">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imanojkumar&repo=Deep-Learning-In-Production&theme=github_dark"/>
+</a>
 
                                                                                                                 
 <br>
