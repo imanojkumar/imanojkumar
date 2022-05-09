@@ -239,7 +239,7 @@
 
 <br>
                                                                      
-<h2>📖 My Blog Post(s) 📖 
+<h2>:memo: My Blog Post(s) :clipboard: 
     <a href="#">
         <img alt="My Blogs" width="100px" height="22px" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" align="right"/>
     </a>
@@ -300,6 +300,12 @@ I believe, <strong> <a href="https://discord.com">Discord</a></strong> is great 
         <img src="https://github.com/imanojkumar/imanojkumar/blob/main/images/discord2.PNG" height="190" width="380" align="center" alt="Manoj#9916:discord-profile"/>
     </a>
 </div>
+
+<br>
+
+<h2> 🌟 Highlighted Repositories :pushpin: </h2>
+
+
                                                                                                                 
 <br>
 <hr>
