@@ -164,11 +164,11 @@
 </h2>
 
 <p align="left">
-    <a href="https://stackoverflow.com/users/4026992/manoj-kumar" target="_blank">
-        <img alt="StackOverflow Reps" src="https://serverless-api-ebon.vercel.app/api?years=8" />
+    <a href="https://stackexchange.com/users/5010601">
+        <img src="https://stackexchange.com/users/flair/5010601.png" width="208" height="58" alt="profile for Manoj Kumar on Stack Exchange" title="Manoj Kumar on Stack Exchange">
     </a>
     <a href="https://stackoverflow.com/users/4026992/manoj-kumar" target="_blank">
-        <img alt="StackOverflow Reps" src="https://img.shields.io/stackexchange/stackoverflow/r/4026992?sort=reputation&order" align="right"/>
+        <img alt="StackOverflow Reps" src="https://serverless-api-ebon.vercel.app/api?years=8" />
     </a>
     <br>
     And my <b>first pick</b> was <b>R</b>, then after 2 years, <b>Python</b>, <b>SQL</b> and <b>PySpark</b>. 
