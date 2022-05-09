@@ -238,7 +238,7 @@
                                                                      
 <h2>My Blog Post(s)
     <a href="#">
-        <img alt="My Blogs" width="30px" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" align="right"/>
+        <img alt="My Blogs" width="40px" height="30px" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" align="right"/>
     </a>
 </h2>
 <ul>
