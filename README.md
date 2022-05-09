@@ -195,10 +195,7 @@
 <p>
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api?username=imanojkumar&layout=compact&show_icons=true&theme=flag-india" style="width:380px;"/>
-    </a> &nbsp;&nbsp;
-    <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojkumar&layout=compact&theme=flag-india&hide=javascript,html,css&langs_count=4" style="width:300px;/>
-    </a>
+    </a> &nbsp;&nbsp;&nbsp;
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojkumar&layout=compact&theme=vision-friendly-dark&hide=javascript,html,css&langs_count=4" style="width:300px;/>
     </a>
