@@ -24,7 +24,7 @@
 <br>
 
 <h2>
-    ℹ️ &nbsp; <strong>Languages and Tools: </strong> <a href="https://twitter.com/ianalyticsgeek" target="blank"> <img src="https://img.shields.io/twitter/follow/ianalyticsgeek?logo=twitter&style=for-the-badge" alt="Manoj Kumar"  align="right" /></a>
+    ℹ️ &nbsp; <strong>Languages and Tools ⚙️</strong> <a href="https://twitter.com/ianalyticsgeek" target="blank"> <img src="https://img.shields.io/twitter/follow/ianalyticsgeek?logo=twitter&style=for-the-badge" alt="Manoj Kumar"  align="right" /></a>
 </h2>
 
 <p align="left"> 
@@ -124,14 +124,14 @@
     </a> 
 </p>
 
-<h3>📄 Favorite Languages:</h3>
+<h3>📄 Favorite Languages</h3>
 <p>
 <a href="#" target="_blank" alt="SQL"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
 <a href="#" target="_blank" alt="Python"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
 <a href="#" target="_blank" alt="R"><img alt="R" src="https://img.shields.io/badge/R-%2312100E.svg?logo=r&style=for-the-badge&logoColor=blue"/></a> 
 </p>
 
-<h3>⚒ Favorite Tools:</h3>
+<h3>⚒ Favorite Tools</h3>
 <p>
     <a href="#" target="_blank" alt="RStudio"><img alt="RStudio" src="https://img.shields.io/badge/RStudio-black?logo=RStudio&style=for-the-badge"/></a>
     <a href="#" target="_blank" alt="Visual Studio Code"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a>
@@ -141,7 +141,7 @@
     <a href="#" target="_blank" alt="GitHub"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a>
 </p>
 
-<h3>⚡Favorite Technology:</h3>
+<h3>⚡Favorite Technology</h3>
 <p>
     <a href="#" target="_blank" alt="Docker"><img alt="Docker" src="https://img.shields.io/badge/Docker-black?logo=Docker&style=for-the-badge"/></a>
     <a href="#" target="_blank" alt="Google Cloud"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%2312100E.svg?logo=google-cloud&style=for-the-badge&logoColor=blue"/></a>
@@ -302,16 +302,18 @@ I believe, <strong> <a href="https://discord.com">Discord</a></strong> is great 
 <br>
 
 <h2> 🌟 Highlighted Repositories :pushpin: </h2>
+<a href="https://github.com/imanojkumar/Deep-Learning-In-Production">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imanojkumar&repo=Deep-Learning-In-Production&theme=github_dark"/>
+</a>
 <a href="https://github.com/imanojkumar/Finance-Full-Stack-Web-App-using-Flask-and-SQL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imanojkumar&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQL&theme=github_dark"/>
 </a>
 <a href="https://github.com/imanojkumar/time-series-forecasting-with-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imanojkumar&repo=time-series-forecasting-with-python&theme=github_dark"/>
 </a>
-<a href="https://github.com/imanojkumar/Deep-Learning-In-Production">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imanojkumar&repo=Deep-Learning-In-Production&theme=github_dark"/>
+<a href="https://github.com/imanojkumar/feature-engineering-for-machine-learning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imanojkumar&repo=feature-engineering-for-machine-learning&theme=github_dark"/>
 </a>
-
                                                                                                                 
 <br>
 <hr>
