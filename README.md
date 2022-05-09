@@ -199,6 +199,9 @@
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojkumar&layout=compact&theme=flag-india&hide=javascript,html,css&langs_count=4" style="width:300px;/>
     </a>
+    <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanojkumar&layout=compact&theme=vision-friendly-dark&hide=javascript,html,css&langs_count=4" style="width:300px;/>
+    </a>
 </p>
 
 <p align="center">
