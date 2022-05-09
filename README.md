@@ -237,7 +237,7 @@
                                                                      
 <h2>My Blog Post(s)</h2>
 <ul>
-  <li><a href="https://clayton-hamilton.medium.com/is-a-pharmacy-residency-right-for-you-9660f6e35fcb"><b>Is pharmacy residency right for you?</b></a><br/><i>Things to ponder prior to entering the ASHP match process.</i></li>
+  <li><a href="https://mkmanu.wordpress.com/2014/07/24/r-and-mysql-a-tutorial-for-beginners/" target="_blank"><b>Interested in working on MySQL using R?</b></a><br/><i>R and MySQL: A Tutorial for Beginners.</i></li>
 </ul>
                                                                                                 
 <br>
