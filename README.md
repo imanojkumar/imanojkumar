@@ -177,7 +177,7 @@
 <br>
 
 <h2>
-    ℹ️ &nbsp; <strong> Github Stats </strong> &nbsp;
+    ℹ️ &nbsp; <strong> GitHub Stats </strong> &nbsp;
     <a href="#">
          <img width="30px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" alt="Manoj Kumar's GitHub Stats" />
     </a>
@@ -192,6 +192,7 @@
         <img src="https://github-profile-trophy.vercel.app/?username=imanojkumar&title=Repositories,Stars,Followers,Commit,PullRequest&margin-w=15&theme=monokai" alt="Manoj Kumar" />
     </a> 
 </p>
+
 <p>
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api?username=imanojkumar&layout=compact&show_icons=true&theme=flag-india" style="width:380px;"/>
@@ -235,7 +236,11 @@
 
 <br>
                                                                      
-<h2>My Blog Post(s)</h2>
+<h2>My Blog Post(s)
+    <a href="#">
+        <img alt="My Blogs" width="30px" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" align="right"/>
+    </a>
+</h2>
 <ul>
   <li><a href="https://mkmanu.wordpress.com/2014/07/24/r-and-mysql-a-tutorial-for-beginners/" target="_blank"><b>Interested in working on MySQL using R?</b></a><br/><i>R and MySQL: A Tutorial for Beginners.</i></li>
 </ul>
