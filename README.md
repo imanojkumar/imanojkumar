@@ -170,7 +170,7 @@
     <a href="https://stackoverflow.com/users/4026992/manoj-kumar" target="_blank">
         <img alt="StackOverflow Reps" src="https://serverless-api-ebon.vercel.app/api?years=8" title="Manoj Kumar started coding 8 years back!"/>
     </a>
-    <br>
+    <br><br>
     And my <b>first pick</b> was <b>R</b>, then after 4 years, <b>Python</b>, <b>SQL</b> and <b>PySpark</b>. 
     <a href="https://github.com/imanojkumar" target="_blank">
      <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Manoj Kumar's Love for Open Source" />
