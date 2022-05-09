@@ -167,6 +167,9 @@
     <a href="https://stackoverflow.com/users/4026992/manoj-kumar" target="_blank">
         <img alt="StackOverflow Reps" src="https://serverless-api-ebon.vercel.app/api?years=8" />
     </a>
+    <a href="https://stackoverflow.com/users/4026992/manoj-kumar" target="_blank">
+        <img alt="StackOverflow Reps" src="https://img.shields.io/stackexchange/stackoverflow/r/4026992?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge" align="right"/>
+    </a>
     <br>
     And my <b>first pick</b> was <b>R</b>, then after 2 years, <b>Python</b>, <b>SQL</b> and <b>PySpark</b>. 
     <a href="https://github.com/imanojkumar" target="_blank">
@@ -238,7 +241,7 @@
                                                                      
 <h2>My Blog Post(s)
     <a href="#">
-        <img alt="My Blogs" width="80px" height="25px" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" align="right"/>
+        <img alt="My Blogs" width="100px" height="22px" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" align="right"/>
     </a>
 </h2>
 <ul>
