@@ -229,7 +229,7 @@
                                                                                                 
 <br>
 
-<h2>My Publications</h2>
+<h2>:newspaper: My Publications :page_with_curl:</h2>
 <ul>
   <li>
   <a href="https://www.mdedge.com/fedprac/article/231303/diabetes/evaluation-metabolic-monitoring-and-diabetes-incidence-first-year"><b>Evaluation of Metabolic Monitoring and Diabetes Incidence in the First Year for Veterans Newly Started on an Atypical Antipsychotic</b></a><br/><i>Adverse drug effects and poor lab monitoring practices put patients at risk.</i>
