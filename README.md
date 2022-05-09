@@ -306,7 +306,7 @@ I believe, <strong> <a href="https://discord.com">Discord</a></strong> is great 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imanojkumar&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQL&theme=github_dark"/>
 </a>
 <a href="https://github.com/imanojkumar/time-series-forecasting-with-python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imanojkumar&repo=time-series-forecasting-with-pythonr&theme=github_dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imanojkumar&repo=time-series-forecasting-with-python&theme=github_dark"/>
 </a>
 <a href="https://github.com/imanojkumar/Deep-Learning-In-Production">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imanojkumar&repo=Deep-Learning-In-Production&theme=github_dark"/>
