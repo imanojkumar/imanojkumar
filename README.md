@@ -168,7 +168,7 @@
         <img alt="StackOverflow Reps" src="https://serverless-api-ebon.vercel.app/api?years=8" />
     </a>
     <a href="https://stackoverflow.com/users/4026992/manoj-kumar" target="_blank">
-        <img alt="StackOverflow Reps" src="https://img.shields.io/stackexchange/stackoverflow/r/4026992?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge" align="right"/>
+        <img alt="StackOverflow Reps" src="https://img.shields.io/stackexchange/stackoverflow/r/4026992?sort=reputation&order" align="right"/>
     </a>
     <br>
     And my <b>first pick</b> was <b>R</b>, then after 2 years, <b>Python</b>, <b>SQL</b> and <b>PySpark</b>. 
