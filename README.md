@@ -156,19 +156,19 @@
 <h2>
     ℹ️ &nbsp; <strong> StackOverFlow Stats </strong> &nbsp;
     <a href="#">
-         <img width="30px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" alt="Manoj Kumar's StackOverFlow Stats" />
+         <img width="30px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg"/>
     </a>
     <a href="https://stackoverflow.com/users/4026992/manoj-kumar" target="_blank">
-        <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=4026992" align="right" />
+        <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=4026992" align="right" alt="Manoj Kumar's StackOverFlow Stats" title="Manoj Kumar's StackOverFlow Stats"/>
     </a>
 </h2>
 
 <p align="left">
     <a href="https://stackexchange.com/users/5010601">
-        <img src="https://stackexchange.com/users/flair/5010601.png" width="208" height="58" alt="profile for Manoj Kumar on Stack Exchange" title="Manoj Kumar on Stack Exchange">
-    </a>
+        <img src="https://stackexchange.com/users/flair/5010601.png" width="208" height="58" alt="Manoj Kumar on Stack Exchange" title="Manoj Kumar on Stack Exchange">
+    </a>&nbsp;&nbsp;&nbsp;
     <a href="https://stackoverflow.com/users/4026992/manoj-kumar" target="_blank">
-        <img alt="StackOverflow Reps" src="https://serverless-api-ebon.vercel.app/api?years=8" />
+        <img alt="StackOverflow Reps" src="https://serverless-api-ebon.vercel.app/api?years=8" title="Manoj Kumar started coding 8 years back!"/>
     </a>
     <br>
     And my <b>first pick</b> was <b>R</b>, then after 2 years, <b>Python</b>, <b>SQL</b> and <b>PySpark</b>. 
