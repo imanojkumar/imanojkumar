@@ -250,7 +250,7 @@
                                                                                                 
 <br>
 
-<h2>:telephone_receiver: Let's get connected on <strong> Social Plateforms :</strong> &nbsp; 🤝
+<h2>:telephone_receiver: Let's get connected on <b>Social Plateforms</b> &nbsp; 🤝
   <a href="https://twitter.com/iAnalyticsGeek" target="_blank">
     <img alt="Twitter: iAnalyticsGeek" src="https://img.shields.io/twitter/follow/iAnalyticsGeek.svg?style=social" target="_blank" align="right"/>
   </a>
