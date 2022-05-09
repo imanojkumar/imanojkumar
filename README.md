@@ -239,7 +239,8 @@
 
 <br>
                                                                      
-<h2>My Blog Post(s)
+<h2>![image](https://user-images.githubusercontent.com/10526322/167376506-60bbf621-f2a2-412c-b570-3655ba924d4e.png)
+My Blog Post(s)![image](https://user-images.githubusercontent.com/10526322/167376506-60bbf621-f2a2-412c-b570-3655ba924d4e.png)
     <a href="#">
         <img alt="My Blogs" width="100px" height="22px" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" align="right"/>
     </a>
