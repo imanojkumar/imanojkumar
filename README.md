@@ -165,13 +165,13 @@
 
 <p align="left">
     <a href="https://stackexchange.com/users/5010601">
-        <img src="https://stackexchange.com/users/flair/5010601.png" width="218" height="70" alt="Manoj Kumar on Stack Exchange" title="Manoj Kumar on Stack Exchange">
+        <img src="https://stackexchange.com/users/flair/5010601.png" width="228" height="75" alt="Manoj Kumar on Stack Exchange" title="Manoj Kumar on Stack Exchange">
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://stackoverflow.com/users/4026992/manoj-kumar" target="_blank">
         <img alt="StackOverflow Reps" src="https://serverless-api-ebon.vercel.app/api?years=8" title="Manoj Kumar started coding 8 years back!"/>
     </a>
     <br>
-    And my <b>first pick</b> was <b>R</b>, then after 2 years, <b>Python</b>, <b>SQL</b> and <b>PySpark</b>. 
+    And my <b>first pick</b> was <b>R</b>, then after 4 years, <b>Python</b>, <b>SQL</b> and <b>PySpark</b>. 
     <a href="https://github.com/imanojkumar" target="_blank">
      <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Manoj Kumar's Love for Open Source" />
     </a>
