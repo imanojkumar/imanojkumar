@@ -245,7 +245,11 @@
     </a>
 </h2>
 <ul>
-  <li><a href="https://mkmanu.wordpress.com/2014/07/24/r-and-mysql-a-tutorial-for-beginners/" target="_blank"><b>Interested in working on MySQL using R?</b></a><br/><i>R and MySQL: A Tutorial for Beginners.</i></li>
+  <li>
+    <a href="https://mkmanu.wordpress.com/2014/07/24/r-and-mysql-a-tutorial-for-beginners/" target="_blank"><b>Interested in working on MySQL using R?</b>
+    </a><br><i>R and MySQL: A Tutorial for Beginners.</i></li>
+  <li>
+    <a href="https://imanojkumar.medium.com/how-to-extract-financial-data-for-many-tickers-stocks-from-yahoo-finance-in-python-d0c023cf0164" target="_blank"><b>Want to learn how to download financial data from yahoo in python pandas dataframe? Learn here..</b></a><br><i>Download Fiancial Data of Many Tickers using Yahoo Finance and Pandas in Python.</i></li>
 </ul>
                                                                                                 
 <br>
