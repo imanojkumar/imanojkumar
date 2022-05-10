@@ -232,9 +232,15 @@
 <h2>:newspaper: My Publications :page_with_curl:</h2>
 <ul>
   <li>
-  <a href="https://www.mdedge.com/fedprac/article/231303/diabetes/evaluation-metabolic-monitoring-and-diabetes-incidence-first-year"><b>Evaluation of Metabolic Monitoring and Diabetes Incidence in the First Year for Veterans Newly Started on an Atypical Antipsychotic</b></a><br/><i>Adverse drug effects and poor lab monitoring practices put patients at risk.</i>
+  <a href="https://www.researchgate.net/profile/Manoj_Kumar458/publication/263505554_An_Application_Of_Time_Series_Arima_Forecasting_Model_For_Predicting_Sugarcane_Production_In_India/links/0f31753b1c8ef0afeb000000/An-Application-Of-Time-Series-Arima-Forecasting-Model-For-Predicting-Sugarcane-Production-In-India.pdf" target="_blank"><b>An application of time series ARIMA forecasting model for predicting sugarcane production in India.</b>
+  </a> <br>
+  <i>To predict the future production of the sugarcane in India, ARIMA methodology was adoptted in this paper. Currently it has 95 citations.</i>
   </li>
-  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6145609/"><b>Worsening Choreoathetosis in Huntington’s Disease with Fluoxetine, Lisdexamfetamine, and Melatonin</b></a><br/><i>A case study of a curious adverse drug reaction.</i></li>
+  <li>
+  <a href="https://www.researchgate.net/profile/Manoj_Kumar458/publication/281775693_Kumar_and_Anand_-_Assessing_Financial_Health_Of_A_Firm_Using_Altman'S_Original_And_Revised_Z-Score_Models_A_Case_Of_Kingfisher_Airlines_Ltd_India/links/55f7eb6008aec948c47539e4.pdf" target="_blank">
+  <b>Assessing financial health of a firm using Altman’s original and revised Z-score models: A case of Kingfisher Airlines Ltd (India)</b>
+  </a><br/><i>A case study that was designed to find whether two models, the orizinal as well as modified Z-score from prof. Altman, are able to predict financial distress or likely future failure in an Indian publicly traded non-manufacturing firm or not.</i>
+  </li>
 </ul>
 
 <br>
