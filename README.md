@@ -13,7 +13,7 @@
 - 👀 I’m interested in Data Science, Business Analytics and Digital Transformation
 - 🌱 I’m currently learning Data Mesh and Data Product for Natural Resources Businesses
 - 💞️ I’m looking to collaborate on #DigitalTransformation #AI #MachineLearning #DeepLearning #BERT #NLP
-- 📫 How to reach me - Just Following me on Twitter { @iAnalyticsGeek }
+- 📫 How to reach me - Just by following me on Twitter { @iAnalyticsGeek }
 
 <br>
 
