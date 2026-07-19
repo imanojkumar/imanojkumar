@@ -32,8 +32,10 @@ I spent two decades running mining operations and enterprise analytics functions
 |---|---|---|
 | **[MiningAnalytics](https://github.com/imanojkumar/MiningAnalytics)** | Foundational mining analytics package - an ontology of **330+ standardized KPIs** covering the full mining value chain, enabling scalable analytics and cross-site benchmarking | `R` |
 | **[MiningCostBench](https://github.com/imanojkumar/MiningCostBench)** | Cost-driver benchmarking across **53 commodities · 6 categories**, with 6-stage cost decomposition. Archived on Zenodo - [DOI: 10.5281/zenodo.20722764](https://doi.org/10.5281/zenodo.20722764) | `R` |
-| **[haulplan](https://github.com/imanojkumar/haulplan)** | Truck–shovel fleet deployment engine with a finite-source queue/bunching model and interactive Shiny dashboard for haulage planning | `R` `Shiny` |
 | **[MineProductivity](https://github.com/imanojkumar/MineProductivity)** | Ontology-first productivity framework - *"scikit-learn for mining productivity"* - with a 100-KPI standard library, benchmark datasets, and a 100-notebook learning curriculum | `Python` |
+| **[MineSDG](https://github.com/imanojkumar/MineSDG)** | MineSDG is a research-grade R framework designed to bridge the gap between raw operational data and the United Nations Sustainable Development Goals (SDGs) and Mining Sustainability | `R` `Shiny` |
+| **[haulplan](https://github.com/imanojkumar/haulplan)** | Truck–shovel fleet deployment engine with a finite-source queue/bunching model and interactive Shiny dashboard for haulage planning | `R` `Shiny` |
+
 
 **In the pipeline:** MineSDG · sdgverse · IndianMiningGPT · MineRating
 
